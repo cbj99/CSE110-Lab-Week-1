@@ -12,7 +12,7 @@ First of all, let me say Hi to you: `echo "Hi"` !
 - [ ] Having a girlfriend
 - [ ] Making good money
 
-![This is me](CSE110-Lab-Week-1/photo.jpg)
+![This is me](photo.jpg)
 
 ## **Time to talk about myself**
 ### **Address:** *8588 Villa La Jolla Dr. APT 352, La Jolla 92037*
