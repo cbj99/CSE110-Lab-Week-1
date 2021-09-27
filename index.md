@@ -14,6 +14,8 @@ First of all, let me say Hi to you: `echo "Hi"` !
 
 ![This is me](photo.jpg)
 
+[Want to see more clearly?](./photo.jpg)
+
 ## **Time to talk about myself**
 ### **Address:** *8588 Villa La Jolla Dr. APT 352, La Jolla 92037*
 ### **Email:** *bac001@ucsd.edu* ~~cbj991112@gamil.com~~
